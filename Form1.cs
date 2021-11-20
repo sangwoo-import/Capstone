@@ -86,7 +86,6 @@ namespace test
             RC = 0; 
             LC = 0;
             CC = 0;
-            cc
         }
         private void Form1_Load(object sender, EventArgs e)
         {
